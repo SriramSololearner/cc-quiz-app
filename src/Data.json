@@ -1,0 +1,61 @@
+[
+    {
+        
+        "Question":"1.What is JavaScript",
+        "Option":["Scripting Language","Assembly Language","Compiled Language","None"],
+        "Answer":"Scripting Language"
+    }, 
+    {
+        "Question":"2.Which of the following is a JavaScript Library",
+        "Option":["React","Javascript","Nodejs","None"],
+        "Answer":"React"
+    }, 
+    {
+        "Question":"3.What does JavaScript use instead of == and !==?",
+        "Option":["It uses Bitwise","it uses === and !=="," It uses Equals() and NotEquals()","EqualTo()"],
+        "Answer":"it uses === and !=="
+    },
+     {
+        "Question":"4.Which event can be fired on any scrollable document element?",
+        "Option":["Window","Scroll"," Load","UnLoad"],
+        "Answer":"Scroll"
+        
+    }, 
+    
+    {
+        "Question":"5.In general, event handler is nothing but ____________",
+        "Option":["Interface","Event","Component","Function"],
+        "Answer":"Function"
+    },
+    
+    {
+        "Question":"6.When is the mouseover event fired?",
+        "Option":["When mouse is clicked","When Mouse is Released","When mouse is Moved Over a new element","When mouse is both Moved and Clicked"],
+        "Answer":"When mouse is Moved Over a new element"
+    }, 
+    {
+    
+    "Question":"7.JavaScript ignores?",
+    "Option":["Tabs","NewLines","spaces","All of the above"],
+    "Answer":"All of the above"
+    
+    },
+    {   
+        "Question":"8.Which of the following is a global object?",
+        "Option":["Register","Location","Position","Window"],
+        "Answer":"Window"
+    },
+    
+    {
+        "Question":"9.The focus and blur events are also part of _________",
+        "Option":["ElementEvents","HandlerEvents","WindowEvents","ScrollEvents"],
+        "Answer":"WindowEvents"
+    
+    },
+    {
+        "Question":"10.In which HTML element, we put the JavaScript code?",
+        "Option":["<javascript>...</javascript>","<js>...</js>","<script>...</script>","<css>...</css>"],
+        "Answer":"<script>...</script>"
+        
+    }
+    ]
